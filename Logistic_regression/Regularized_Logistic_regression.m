@@ -1,7 +1,7 @@
-%% Initialization
+% Initialization
 clear ; close all; clc
 
-%% Load Data
+% Load Data
 %  The first two columns contains the X values and the third column
 %  contains the label (y).
 
@@ -22,7 +22,7 @@ legend('y = 1', 'y = 0')
 hold off;
 
 
-%% Regularized Logistic Regression 
+% Regularized Logistic Regression 
 
 % Add Polynomial Features
 
@@ -57,7 +57,7 @@ fprintf(' %f \n', grad(1:5));
 fprintf('\nProgram paused. Press enter to continue.\n');
 pause;
 
-%% Regularization and Accuracies 
+% Regularization and Accuracies 
 
 % Initialize fitting parameters
 initial_theta = zeros(size(X, 2), 1);
