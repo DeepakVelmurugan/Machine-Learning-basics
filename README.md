@@ -12,5 +12,5 @@
 5. [PCA and k-means](https://github.com/DeepakVelmurugan/machineLearning/tree/master/PCA_and_K-means)
 6. [Anomaly detection and Collaborative filtering](https://github.com/DeepakVelmurugan/machineLearning/tree/master/AnomalyDetection_and_CollaborativeFiltering)
 
-**It's very important to know these topics before jumping into ML :white_check_mark:**
+**It's very important to know these topics before jumping into ML :white_check_mark:**<br>
 *Refer the file names for better understanding of what it is*
